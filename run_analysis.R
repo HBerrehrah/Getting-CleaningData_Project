@@ -1,9 +1,3 @@
-#setwd("C:\\Users\\Hamza\\Documents\\BigData\\Data-Science-Specialization\\Coursera_3.Get-Clean-Data\\RCode\\Project")
-#setwd("~/Repositories/Coursera/Getting-CleaningData_Project")
-#knit("run_analysis.Rmd", encoding="ISO8859-1")
-#markdownToHTML("run_analysis.md", "run_analysis.html")
-
-
 #-----------------------------
 ## Load packages and Set path.
 #-----------------------------
